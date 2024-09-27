@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
+}
+
+.card-img {
+  position: relative;  
+  text-align: center;
+  min-height: 12em;
+  background-color: #868e96;
+}
+
+.image-cap {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);  
+  color: #e8ebee;
+}

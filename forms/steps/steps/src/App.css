@@ -1,0 +1,57 @@
+#root {
+  margin: 50px auto 0; 
+}
+
+.input-block {
+  display: flex;
+  padding: 10px;
+}
+
+.list-block {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between
+}
+
+.input-block-part {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  align-items: flex-start;
+  padding: 5px;  
+}
+
+.block {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  min-width: 80px;
+  padding: 10px;
+  background-color: white;
+}
+
+label {
+  margin: 0 0 10px 5px;
+}
+
+.btndel {    
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+}
+
+.list {
+  border: 1px solid #000000;
+  border-radius: 10px;  
+  list-style-type: none;
+  padding: 5px 10px 0px;
+  margin: 0 15px 0px;
+}
+
+.step{
+  display: flex;
+  padding: 5px 10px 0px;
+  justify-content: space-between
+}
+
