@@ -12,19 +12,4 @@
 
 2.2. [Жизненный цикл](lifecycle)
 
-2.3. [HOC](hoc)
-
-2.4. [hooks, Context API](hooks-context)
-
-2.5. [React Router](router)
-
-### 3. Redux - управление состоянием
-
-3.1. [Redux](redux)
-
-3.1. [Redux Toolkit](thunk)
-
-3.2. [Redux Observable](observable)
-
-3.3. [Redux Saga](saga)
 
